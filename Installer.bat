@@ -31,6 +31,6 @@ if '%errorlevel%' NEQ '0' (
 
 copy commands %windir%\system32
 
-echo Installedd!
+echo Installed!
 
 timeout -1
