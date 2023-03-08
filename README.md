@@ -8,6 +8,8 @@ Winux is a tool for bringing Linux Commands to Windows <sub>[WIP]</sub>
 
 #### **Generall**
 + apt <sub>[uses winget]</sub>
++ yum <sub>[same as apt]</sub>
+
 + kill <sub>[uses taskkill]</sub>
 + less <sub>[uses more]</sub>
 + man <sub>[uses /?]</sub>
