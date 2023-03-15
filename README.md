@@ -1,5 +1,9 @@
 # **Winux**
 
+### **Download & Installtion**
+
+If you dont want to download the whole git-repo you can use the [Setup-File](https://github.com/MushroomFX/Winux/raw/main/WinuxSetup.exe) to do so
+
 ### **Desciption**
 
 Winux is a tool for bringing Linux Commands to Windows <sub>[WIP]</sub>
