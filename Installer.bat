@@ -31,7 +31,6 @@ if '%errorlevel%' NEQ '0' (
 
 copy commands %windir%\system32
 
-echo Installed!
+msg %username% Winux Installed!
 
-timeout -1
 exit
