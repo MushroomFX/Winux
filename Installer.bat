@@ -34,3 +34,4 @@ copy commands %windir%\system32
 echo Installed!
 
 timeout -1
+exit
